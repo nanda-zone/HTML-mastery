@@ -4,6 +4,7 @@ This project is an implementation of single-page curriculum vitae with a focus o
 
 ## 🚀 Live Demo
 You can view the live version of my CV here:  
+https://nanda-zone.github.io/HTML-mastery/single-page-cv.html/
 [Insert your GitHub Pages URL here, e.g., https://username.github.io/repository-name/]
 
 ## 🛠️ Key Requirements
